@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quizzes</string>
+    <string name="question_1">1. When programming in Java,
+        the constructor of a child class must contain what call?</string>\
+    <!--answer choices for question 1-->
+    <string name="q1AnswerA">super();</string>
+    <string name="q1AnswerB">this();</string>
+    <string name="q1AnswerC">this.super();</string>
+    <string name="q1AnswerD">super.child_class_name();</string>
+    <string name="question_2">2. What keyword do you use  when you want a class to inherit from a parent class (ex. public class MainActivity _____ AppCompatActivity)?</string>
+    <!--answer choices for question 2-->
+    <string name="q2AnswerA">Arg[]</string>
+    <string name="q2AnswerB">extends</string>
+    <string name="q2AnswerC">void</string>
+    <string name="q2AnswerD">static</string>
+    <string name="question_3">3. What is another word for a super Class?</string>
+    <!--answer choices for question 2-->
+    <string name="q3AnswerA">child</string>
+    <string name="q3AnswerB">parent</string>
+    <string name="q3AnswerC">superduper</string>
+    <string name="q3AnswerD">father</string>
+    <string name="question_4">4. What is the first step for planning super classes and sub classes?</string>
+    <!--answer choices for question 2-->
+    <string name="q4AnswerA">Coding</string>
+    <string name="q4AnswerB">Drawing</string>
+    <string name="q4AnswerC">Planning</string>
+    <string name="q4AnswerD">Good thoughts</string>
+
+
+
+
+    <string name="submit">Submit</string>
+</resources>
